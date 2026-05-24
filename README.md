@@ -9,4 +9,4 @@
 <h4>A logo created by me on 09/05/2026.</h4>
 <p>The name of this logo is "TIMEOUT" </p>
 
-<img src="timeout.jpeg">
+<img src="timeout Thumbnail.jpg">
