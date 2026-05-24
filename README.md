@@ -10,5 +10,5 @@
 <p>The name of this logo is "TIMEOUT" </p>
 
 <img src="timeout Thumbnail.jpg">
-#and this 
+## and this 
 <img src="timeout.png">
